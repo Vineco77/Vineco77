@@ -28,7 +28,7 @@
 [![PowerShell](	https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#) 
 [![VScode](	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#) 
 
-![snake gif](https://github.com/Vineco77/Vineco77/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 #### Ferramentas que utilizo para moldar meus projetos antes da aplicação 💅
 
