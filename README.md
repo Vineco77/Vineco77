@@ -10,9 +10,6 @@
     <h2>vinii.viniciusribeiro@gmail.com</h2>
 </div>
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vineco77&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineco77)](https://github.com/Vineco77/github-readme-stats)
-  
 #### Tecnologias que adoro utilizar e explorar 🏆
 
 [![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) 
