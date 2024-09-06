@@ -1,6 +1,6 @@
-### Bem-vindo a minha Página no GitHub 😻 Eu sou Vinicius Ribeiro 
-#### Fique a vontade para navegar, em caso de dúvidas estou disponível 24/7 para você 🫵
-#### ⬇️Pode me chamar no⬇️
+### Welcome to my GitHub Page 😻 I'm Vinicius Ribeiro
+#### Feel free to explore, and if you have any questions, I'm available 24/7 for you 🫵
+#### ⬇️You can reach me at...⬇️
 
 <div> 
     <a href="https://www.linkedin.com/in/vinicius-ribeiro-4690741ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
     <h2>vinii.viniciusribeiro@gmail.com</h2>
 </div>
 
-#### Tecnologias que adoro utilizar e explorar 🏆
+#### Technologies I love to use and explore 🏆
 
 [![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) 
 [![CSS](		https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) 
@@ -27,7 +27,7 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-#### Ferramentas que utilizo para moldar meus projetos antes da aplicação 💅
+#### Tools I use to shape my projects before implementation 🎨
 
 [![Canva](		https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#) 
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) 
