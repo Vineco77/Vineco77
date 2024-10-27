@@ -29,7 +29,7 @@
 [![PowerShell](	https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#) 
 [![VScode](	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#) 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vineco77/vineco77/blob/output/github-contribution-grid-snake.gif)
 
 #### Tools I use to shape my projects before implementation 🎨
 
