@@ -39,5 +39,4 @@
 #### 🏆 Certifications & Achievements
 
 - 🤖 Copilot Studio Agent Academy – Recruit
-[![Copilot Studio Agent Academy - Recruit](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9bfbf163-bfa0-415d-a40f-208d18fc5ff5" />
-)]([LINK_DO_CERTIFICADO](https://globalai.community/badges/6f92a96a-bad4-43c8-81fc-a61f14d2f423/))
+[![Copilot Studio Agent Academy - Recruit](https://globalai.community/media/pdghq4y1/mcs-agent-academy-recruit-badge.png?width=0&height=500&v=1dc87110fea9d60)]([LINK_DO_CERTIFICADO](https://globalai.community/badges/6f92a96a-bad4-43c8-81fc-a61f14d2f423/))
