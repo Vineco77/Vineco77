@@ -36,4 +36,8 @@
 [![Canva](		https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#) 
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) 
 
+#### 🏆 Certifications & Achievements
 
+- 🤖 Copilot Studio Agent Academy – Recruit
+[![Copilot Studio Agent Academy - Recruit](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9bfbf163-bfa0-415d-a40f-208d18fc5ff5" />
+)]([LINK_DO_CERTIFICADO](https://globalai.community/badges/6f92a96a-bad4-43c8-81fc-a61f14d2f423/))
